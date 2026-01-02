@@ -1,4 +1,5 @@
 tauris-media-showcase a freelance gig for a client dominating the social media - 
+Full Source code private due to client ownership
 
 Live link - www.taurismedia.com
 
